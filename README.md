@@ -22,7 +22,7 @@ Then in the project flask directory
 
 First do you need to install nodejs package on your computer
 
-    - https://nodejs.org/en/
+    - [https://nodejs.org/en/](https://nodejs.org/en/)
     
 Second go to the reacjs directory:
 
