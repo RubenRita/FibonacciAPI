@@ -7,12 +7,15 @@ First create a new virtual environment:
   - virtualenv flask or (other name)
 
 Second Activate Virtual Env
+
     - cd flask/Scripts/Activate
 
 Install libraries and packages 
+
     - pip install -r > requirements.txt
 
 Then in the project flask directory 
+
     - Python run.py
 
 ## {FrontEnd}
@@ -20,9 +23,11 @@ Then in the project flask directory
 First do you need to install nodejs package on your computer
 
 Second go to the reacjs directory:
+
     - install npm packages
 
 Then in the project directory, you can run:
+
     - npm start  
     - Runs the app in the development mode.\Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
