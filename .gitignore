@@ -4,3 +4,4 @@ reactjs/node_modules
 #### BACKEND ####
 flask
 app/__pycache__
+__pycache__
