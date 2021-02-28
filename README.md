@@ -22,7 +22,7 @@ Then in the project flask directory
 
 First do you need to install nodejs package on your computer
 
-    - [https://nodejs.org/en/](https://nodejs.org/en/)
+    - (https://nodejs.org/en)
     
 Second go to the reacjs directory:
 
@@ -31,7 +31,7 @@ Second go to the reacjs directory:
 Then in the project directory, you can run:
 
     - npm start  
-    - Runs the app in the development mode.\Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    - Runs the app in the development mode.\Open (http://localhost:3000) to view it in the browser.
 
 
 
