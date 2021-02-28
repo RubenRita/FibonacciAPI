@@ -1,0 +1,6 @@
+#### FRONTEND ####
+reactjs/node_modules
+
+#### BACKEND ####
+flask
+app/__pycache__
