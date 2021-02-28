@@ -1,6 +1,11 @@
-Flask + React JS : REST API notes APP.
+Flask + React JS : REST API Fibonacci Number.
 
-I made this project to learn about rest api, how to make it, make better understanding how jwt work. If you wanna use this project you must run following code before starting
+Simple API that gives you a list of N-th fibonacci numbers!
+
+First create a new virtual environment:
+  - virtualenv flask or (other name)
+  - 
+
 
 install pip packages
 
