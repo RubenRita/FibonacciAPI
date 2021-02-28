@@ -17,6 +17,7 @@ Install libraries and packages
 Then in the project flask directory 
 
     - Python run.py
+    - Runs the app in the development mode.\Open (http://localhost:5000) to view it in the browser.
 
 ## {FrontEnd}
 
